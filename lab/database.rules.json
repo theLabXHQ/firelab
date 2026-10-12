@@ -1,0 +1,1 @@
+{"rules":{"public":{".read":true},"open_write":{".read":true,".write":true},"users":{"$uid":{".read":"auth != null && auth.uid === $uid",".write":"auth != null && auth.uid === $uid"}},"locked":{".read":false,".write":false}}}

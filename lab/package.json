@@ -1,0 +1,1 @@
+{"name":"firelab-local-lab","private":true,"scripts":{"start":"firebase emulators:start --project demo-firelab-lab --only auth,firestore,database,storage"},"devDependencies":{"firebase-tools":"15.30.1"},"engines":{"node":">=22"}}
